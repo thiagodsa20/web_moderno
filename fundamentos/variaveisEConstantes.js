@@ -1,5 +1,5 @@
 var a = 3 //o 'var' é fracamente tipado
-let b = 4 // 'let' é fortemente tipado
+let b = 4 //o 'let' é fortemente tipado
 
 console.log(a)
 console.log(b)
